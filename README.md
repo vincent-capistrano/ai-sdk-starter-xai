@@ -76,8 +76,18 @@ You can deploy your own version to Vercel by clicking the button below:
 
 4. Open [http://localhost:3000](http://localhost:3000) to view your new AI chatbot application.
 
+## Tech Stack
+
+| Layer    | Technology                                      |
+|----------|-------------------------------------------------|
+| Frontend | Next.js (App Router), TailwindCSS, shadcn/ui    |
+| AI       | AI SDK by Vercel, xAI (Grok models)             |
+| Hosting  | Vercel                                          |
+
+---
+
 ## Authors
 
-This repository is maintained by the [Vercel](https://vercel.com) team and community contributors.
+This project is forked from the [Vercel Labs ai-sdk-starter-xai](https://github.com/vercel-labs/ai-sdk-starter-xai) template and maintained by [@vincent-capistrano](https://github.com/vincent-capistrano).
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality or fix bugs.
